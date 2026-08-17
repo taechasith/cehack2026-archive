@@ -1,0 +1,388 @@
+{
+  "schema_version": "1.0.0",
+  "event": {
+    "name": "CREATIVE data ENGINEERING HACKATHON 2026",
+    "episode": "67HACK: THE MEME Engineering for Next Generation Learners",
+    "full_name": "CREATIVE data ENGINEERING HACKATHON 2026 (EP: 67HACK: THE MEME Engineering for Next Generation Learners)",
+    "dates": ["2026-08-15", "2026-08-16"],
+    "format": "Online",
+    "organizers": [
+      "Faculty of Engineering, University of the Thai Chamber of Commerce (UTCC)",
+      "CIA CreativeLab"
+    ],
+    "partner": "Adam's House",
+    "official_page": "https://contester.life/contest/creative-data-engineering-hackathon-2026",
+    "project_submission_sheet": "https://docs.google.com/spreadsheets/d/1Et4_oDxy_xerXzvliYzKSD6KZTfNdciDJZF0IX91WJI/edit"
+  },
+  "generated_at": "2026-08-18T00:00:00+07:00",
+  "privacy": "Email addresses and form timestamps are intentionally excluded.",
+  "projects": [
+    {
+      "submission_id": "CEHACK-2026-001",
+      "project_name": "Encouragement Web Project",
+      "team": "ไม่บอก",
+      "summary": "เข้าใจและพร้อมให้กำลังใจกับพวกคุณ",
+      "credits": ["แตงโม — นักพูด พูดมากพร้อมหาข้อมูล", "ไตเติ้ล — ผู้ทำเว็บและเขียนโค้ด", "แพนเค้ก — ตัดต่อ", "มาเล — กลั่นกรองข้อมูล", "พี — คิดบท"],
+      "learnings": "ได้พัฒนาทักษะของตัวเองในด้านต่าง ๆ และเข้าใจถึงคนในวัยนี้ด้วยกัน",
+      "mentor_notes": "พวกเราทุกคนสามัคคีกัน",
+      "links": {
+        "source": [{"submitted_url": "https://github.com/title2007/hk1/tree/main/op.html/op", "canonical_url": "https://github.com/title2007/hk1", "status": "verified_public"}],
+        "demo": [],
+        "pitch": null
+      }
+    },
+    {
+      "submission_id": "CEHACK-2026-002",
+      "project_name": "Enlightenment Compass",
+      "team": "กลุ่มยอดคนทลายสวรรค์",
+      "summary": "แพลตฟอร์มที่ช่วยให้ผู้เรียนวางแผนเส้นทางการเรียนรู้ไปสู่อาชีพที่ต้องการ โดยเปลี่ยนความรู้และทักษะที่ต้องเรียนให้กลายเป็น Skill Tree แบบเกมในธีมของจักรวาล",
+      "credits": ["นนท์ — Developer, Project Manager, Code Reviewer", "ณ — Developer, Storyteller", "ไปร์ท — Database, Developer", "พี — Graphic, UX/UI, Developer", "โค้ด — Supervisor และกำหนดทิศทาง", "โอ๊ค — Storyteller, QA/Tester, Developer", "ลูก้า — Main Developer"],
+      "learnings": "วิธี Deploy, การบริหารจัดการคน และ Optimization",
+      "mentor_notes": "พี่เต้ช่วยเรื่อง Feature และการ Presentation; พี่ฟาช่วยแก้เรื่องความเข้าใจและทิศทาง",
+      "links": {
+        "source": [{"submitted_url": "https://github.com/Fraqkma/67TechDesignCompetition", "canonical_url": "https://github.com/Fraqkma/Enlightenment-Compass", "status": "verified_public_redirected"}],
+        "demo": [],
+        "pitch": "https://drive.google.com/open?id=1aeg-s8kvS5SXCyK-o2fiBKlBl2FXFwMp"
+      }
+    },
+    {
+      "submission_id": "CEHACK-2026-003",
+      "project_name": "AURA FARM",
+      "team": "revenge",
+      "summary": "AURA FARM อ่านประวัติการแก้ไขเอกสารงานกลุ่มเพื่อคำนวณว่าใครลงแรงจริงเท่าไหร่ แล้วส่งกลับเข้ากลุ่มเป็นมีม เพื่อให้เรื่องที่ทุกคนรู้แต่ไม่มีใครกล้าพูดถูกพูดถึงตอนที่ยังแก้ทัน",
+      "credits": ["ธีม — Developer", "กัส — Tester และ Bug Finding", "เก็ต — Frontend", "เฟรน — Team Support"],
+      "learnings": "ได้เรียนรู้การ Prompt รูปแบบต่าง ๆ",
+      "mentor_notes": "แรงบันดาลใจ",
+      "links": {
+        "source": [{"submitted_url": "https://github.com/TEAMNAJAA/AURA-FARMING", "canonical_url": "https://github.com/TEAMNAJAA/AURA-FARMING", "status": "verified_public"}],
+        "demo": [],
+        "pitch": "https://drive.google.com/open?id=1l0rmvojJrabRra95qdvyoiiV0G6fTEC5"
+      }
+    },
+    {
+      "submission_id": "CEHACK-2026-004",
+      "project_name": "Meme Community",
+      "team": "7 สหายป้ายรถเมล์",
+      "summary": "เว็บแอปพลิเคชันที่ใช้มีมเป็นสื่อในการเรียนรู้และทำความเข้าใจตัวมีม",
+      "credits": ["กวิน — Presenter, Slides, Idea Synthesis", "กันดั้ม — Web Application, Team Lead", "แน็กกี้ — Presenter, Slides, Idea Synthesis", "เจ้าขุน — Presenter, Slides, Idea Synthesis", "พัตเตอร์ — Web Application", "พร้อม — Research, Slides", "โอเชี่ยน — Web Application, Slides"],
+      "learnings": "ความสามัคคี การแบ่งหน้าที่ การพัฒนาเว็บแอปพลิเคชัน และความรับผิดชอบ",
+      "mentor_notes": "Mentor ฟาและ Mentor เต้ให้คำแนะนำและเสนอไอเดียเพิ่มเติม",
+      "links": {
+        "source": [{"submitted_url": "https://github.com/NarawitDotTech/meme-community", "canonical_url": "https://github.com/NarawitDotTech/meme-community", "status": "verified_public"}],
+        "demo": [],
+        "pitch": "https://drive.google.com/open?id=1J6fNqN_hUHI8GdnQPpyFH9iRRO9ZgoJj"
+      }
+    },
+    {
+      "submission_id": "CEHACK-2026-005",
+      "project_name": "Back2U",
+      "team": "Back2U",
+      "summary": "แพลตฟอร์ม Lost & Found สำหรับโรงเรียน ช่วยแจ้งของหายหรือของที่พบ ค้นหาและจับคู่รายการที่มีโอกาสตรงกัน พร้อมเหตุผล ตำแหน่งที่พบ และขั้นตอนตรวจสอบก่อนรับคืน",
+      "credits": ["ตั้ม — Team Lead, Core System, System Architecture", "ปณต — Lost & Found Research", "มีน — Data Analysis and Insights", "ลีโอ — UX and User Flow", "ต้นกล้า — Pitch Content and Story", "เฟม — Memes and Presentation Media", "ธีร์ — QA, Testing and Content Verification"],
+      "learnings": "เริ่มจากความเข้าใจปัญหาผู้ใช้และข้อมูลก่อนเลือกเทคโนโลยี ฝึกแบ่งงาน สร้าง Prototype ภายใต้เวลาจำกัด และคำนึงถึง UX กับ Technical Feasibility",
+      "mentor_notes": null,
+      "links": {
+        "source": [{"submitted_url": "https://github.com/srdsiridon-wq/Back2U", "canonical_url": "https://github.com/srdsiridon-wq/Back2U", "status": "verified_public"}],
+        "demo": [],
+        "pitch": "https://drive.google.com/open?id=1pta0uAX1QC_MtUSSKFtpqPM2zJR3HwqG"
+      }
+    },
+    {
+      "submission_id": "CEHACK-2026-006",
+      "project_name": "Mookrob Tracker",
+      "team": "Mookrob Lover",
+      "summary": "เว็บไซต์ดูสถานะหมูกรอบของร้านอาหารจากคนที่อยู่ที่ร้านจริงก่อนเดินทาง",
+      "credits": ["บรรณ — Developer, Presenter", "มิรา — Full-stack Developer", "ก้อง — Researcher, Beta Tester", "เจ — Full-stack Developer", "เพชร — Video Creator, Beta Tester", "โอห์ม — Researcher, Project Planner", "กวา — Researcher, Beta Tester"],
+      "learnings": "การใช้ Lovable, Prompt Engineering, การ Open Source, การจัดการ License และวิธีการกินหมูกรอบอย่างถูกวิธี",
+      "mentor_notes": "พี่ฟิล์มให้ Feedback กับเว็บไซต์เพื่อพัฒนาต่อ",
+      "links": {
+        "source": [{"submitted_url": "https://github.com/jaypupu2006/MOOKROB-TRACKER", "canonical_url": "https://github.com/jaypupu2006/MOOKROB-TRACKER", "status": "verified_public"}],
+        "demo": [],
+        "pitch": "https://drive.google.com/open?id=1boKhYckxnkBrngN32yEWU_EgdDncAd42"
+      }
+    },
+    {
+      "submission_id": "CEHACK-2026-007",
+      "project_name": "โต๊ะจีนอเนกประสงค์",
+      "team": "ตัวเราเองเป็นปีศาจ จิตใจเราเหมือนผีห่าซาตาน",
+      "summary": "โต๊ะจีนอเนกประสงค์ที่แก้ปัญหาเรื่องความสัมพันธ์ในครอบครัว",
+      "credits": ["มอนเน่ — ตีความมีม", "อนิต้า — ออกแบบหน้าตา Solution", "ธี — เพิ่มระบบและการทำงาน", "ภูริ — ตัดโมเดลชานอ้อยตัวอย่าง"],
+      "learnings": "เข้าใจเรื่องระบบมากขึ้นและได้คิดสร้างสรรค์นอกกรอบจากโจทย์",
+      "mentor_notes": null,
+      "links": {
+        "source": [],
+        "demo": [],
+        "pitch": "https://drive.google.com/open?id=1u6UggyA4cNVcHJc7jivmbbyqxcA_IWXT"
+      }
+    },
+    {
+      "submission_id": "CEHACK-2026-008",
+      "project_name": "Physics Meme Lab",
+      "team": "เส้นซีวิกซิกเซเว่นและฝนก็ตกหกก็เจ็ดแต่เอ็มออนิวรักปูเป้ที่สุดในสามโลก",
+      "summary": "เกมเรียนรู้ฟิสิกส์ที่เปลี่ยนมีมและท่าทางหน้ากล้องให้เป็นการทดลองจริง ช่วยให้ผู้เล่นเข้าใจเรื่องยากผ่านการเล่น การสังเกต และการลองแก้ด้วยตัวเอง",
+      "credits": ["ม๊อบ — Slides, Pitch Script, Frontend", "พุทธ — White Coding, Debugging, Backend", "เซน — Deploy, Debugging, Backend", "ปราง — Presenter, Ideation"],
+      "learnings": "การเรียนรู้เรื่องความคิดสร้างสรรค์และการพัฒนาไอเดีย",
+      "mentor_notes": "พี่ฟาเข้ามาดูและทดสอบระบบ",
+      "links": {
+        "source": [{"submitted_url": "https://github.com/NoppakornZen/PhysicsMemeLab", "canonical_url": null, "status": "unavailable_at_verification"}],
+        "demo": [],
+        "pitch": "https://drive.google.com/open?id=1NOWBwpAYHEgqEKCASAWWm4E-ag_mhx2T"
+      }
+    },
+    {
+      "submission_id": "CEHACK-2026-009",
+      "project_name": "LuerRai? (เหลือไร?)",
+      "team": "เส้นซีวิก ซิกมาไอเท่ากับหนึ่ง ถึงอินฟินิตี้ มีอนุกรมเรขาคณิตที่มี ค่า r เท่ากับหกเจ็ด",
+      "summary": "เว็บแอปเช็กสถานะเมนูอาหารแบบ Real-time เพื่อลดปัญหานักเรียนเดินไปต่อคิวแล้วของกินหมด และเปลี่ยนพฤติกรรมจากเดินไปลุ้นเป็นรู้ก่อนเดินไป",
+      "credits": ["คิว — Full-stack Development", "เทค — Ideation and Prototyping", "กัน — Testing, Bug Finding, Pitch", "ซันเป่า — Testing and Bug Finding"],
+      "learnings": "Live Chat แบบไม่ใช้ Database, Optimistic UI, การจัดลำดับความสำคัญภายใต้เวลาจำกัด และการเปิดมุมมองสร้างสรรค์",
+      "mentor_notes": "Mentor ช่วยสร้างความมั่นใจและบรรยากาศที่ดีภายใต้ความกดดัน",
+      "links": {
+        "source": [{"submitted_url": "https://github.com/KiLLuKz/luerrai", "canonical_url": "https://github.com/KiLLuKz/luerrai", "status": "verified_public"}],
+        "demo": [],
+        "pitch": "https://drive.google.com/open?id=1XqtUMRjtEzkkAIh3oswmHlpB8CRWxwv5"
+      }
+    },
+    {
+      "submission_id": "CEHACK-2026-010",
+      "project_name": "Locked in Legends",
+      "team": "locked in legends",
+      "summary": "The Netflix of studying",
+      "credits": ["น้ำหนึ่ง — Frontend, Visual Design, UI", "อเล็กซ์ — Backend, Debugging, System Reliability", "โฟกัส — Pitch Structure, Script, Storytelling"],
+      "learnings": "การใช้ GitHub กับ Lovable การเขียนและแก้โค้ด การแก้บั๊ก และการออกแบบ UI",
+      "mentor_notes": "พี่ฟาและพี่เต้สอนการใช้ GitHub และ VS Code",
+      "links": {
+        "source": [{"submitted_url": "https://github.com/alexb-hash/Locked_in_Legends", "canonical_url": "https://github.com/alexb-hash/Locked_in_Legends", "status": "verified_public"}],
+        "demo": [],
+        "pitch": "https://drive.google.com/open?id=1clNuTr0x0PdxUCVrp5aAmq8DKT_qAAwP"
+      }
+    },
+    {
+      "submission_id": "CEHACK-2026-011",
+      "project_name": "abube",
+      "team": "abube",
+      "summary": "เว็บไซต์ที่ช่วยให้ผู้ถูกบูลลี่เข้าถึงนักจิตวิทยาได้ง่ายขึ้น โดย AI ปรับลักษณะการสื่อสารของนักจิตวิทยาให้เป็นรูปแบบตัวละครที่ผู้ใช้รู้สึกสบายใจจะคุยด้วย",
+      "credits": ["นิก — Concept and Design", "แมทธิว — Development", "ใบบุญ — Ideation", "จีน — Web Design", "ออโต้ — Ideation"],
+      "learnings": "การวางแผน แบ่งหน้าที่ และเรียนรู้จากข้อผิดพลาดในการเขียนโค้ด",
+      "mentor_notes": "ช่วยแนะนำไอเดีย",
+      "links": {
+        "source": [{"submitted_url": "https://github.com/Nawat12ds/abube", "canonical_url": "https://github.com/Nawat12ds/abube", "status": "verified_public"}],
+        "demo": [],
+        "pitch": "https://drive.google.com/open?id=1QlW9hmUji25vC5razvC5GKx7zQ99ClJk"
+      }
+    },
+    {
+      "submission_id": "CEHACK-2026-012",
+      "project_name": "Open Sheet Art",
+      "team": "Pha Rak",
+      "summary": "แอปรวมมีมที่มี AI วิเคราะห์ว่าแต่ละมีมสะท้อนปัญหาสังคมอย่างไร",
+      "credits": ["พารัก — Development", "นัท — Slides, Problem Framing", "เบ้ — Video Editing, Slides", "วิปครีม — Script, Slides"],
+      "learnings": "Prototype Development ด้วย Lovable, การใช้ AI, Prompting, การแบ่งหน้าที่ และการเข้าใจปัญหาสังคมที่สื่อผ่านมีม",
+      "mentor_notes": "พี่ฟาให้คำแนะนำและดูตัวแอป",
+      "links": {
+        "source": [],
+        "demo": [{"url": "https://open-sheet-art.lovable.app", "status": "submitted_live_demo"}],
+        "pitch": "https://drive.google.com/open?id=1PZT8LXw1vc-dXuECRZ0vZIc-uUtZQU31"
+      }
+    },
+    {
+      "submission_id": "CEHACK-2026-013",
+      "project_name": "วอดส์ MEME",
+      "team": "Vapor",
+      "summary": "Duolingo เถื่อนสำหรับ Internet English ที่สอนภาษาอังกฤษจาก Meme, Slang, Reaction และ Context ผ่าน Learn และ Search โดยยึดหลัก Context before Definition",
+      "credits": ["เรน — Product Design, Web Development, Slides and End-to-end Production"],
+      "learnings": "ก้าวข้ามความไม่เข้าใจในมีมและเปลี่ยนปัญหาที่ตนเองพบให้กลายเป็นโปรเจกต์เพื่อคนอื่นที่เจอปัญหาเดียวกัน",
+      "mentor_notes": "พี่ฟาติดตามความคืบหน้าและให้กำลังใจ",
+      "links": {
+        "source": [{"submitted_url": "https://github.com/RAIN128c/vod-meme", "canonical_url": "https://github.com/RAIN128c/vod-meme", "status": "verified_public"}],
+        "demo": [],
+        "pitch": "https://drive.google.com/open?id=1y8Bfc5bdmMFQ48DFCl4nvdJeqvoFlyyP"
+      }
+    },
+    {
+      "submission_id": "CEHACK-2026-014",
+      "project_name": "Aura Engineering",
+      "team": "aura engineering",
+      "summary": "วัดค่าเฉลี่ยภาพรวมของรูปร่างหน้าตาเป็น Aura Point และเสนอแนวทางพัฒนาอย่างเหมาะสม เพื่อกระตุ้นความสนใจในการพัฒนาตนเอง",
+      "credits": ["ฮิเดะ — Business, Development", "ตังทอน — Presenter", "ก้อง — Information", "อินดี้ — Presenter", "มิกกี้ — Information"],
+      "learnings": "การทำงานเป็นทีม หลักการทำงานของแอป ข้อมูลเชิงลึก และ Lovable AI",
+      "mentor_notes": "พี่ฟา พี่เต้ และพี่ฟิวล์ให้คำแนะนำ",
+      "links": {
+        "source": [{"submitted_url": "https://github.com/hidehiro1177/aura-engineering.git", "canonical_url": "https://github.com/hidehiro1177/aura-engineering", "status": "verified_public"}],
+        "demo": [],
+        "pitch": "https://drive.google.com/open?id=1rYViTHD0wdaSq0-0zWofdpksdM9VKn0t"
+      }
+    },
+    {
+      "submission_id": "CEHACK-2026-015",
+      "project_name": "Save Cash By-MEME (SCB-MEME)",
+      "team": "เทพไม่รวมกลุ่ม",
+      "summary": "แอปออมเงินสำหรับ Gen Z ที่แก้ปัญหาเงินออมไม่พอใช้จากการโอนจ่ายไวชั่ววูบ โดยผสาน Behavioral Economics เข้ากับความบันเทิงแบบมีม",
+      "credits": ["วีร์ — Slides, App Prototyping, Pitching and Team Support"],
+      "learnings": "การผสาน Pop Culture กับข้อมูล การเข้าใจ Insight ของ Gen Z การออกแบบ Withdrawal Friction และ Rapid Prototyping ด้วย AI",
+      "mentor_notes": "ให้กำลังใจและช่วยเตรียมตัว Pitching",
+      "links": {
+        "source": [],
+        "demo": [{"url": "https://lovable.dev/projects/e3bf3b5e-b2eb-437f-8c95-802db9d7927e", "status": "submitted_project_link"}],
+        "pitch": "https://drive.google.com/open?id=1gDvtfcZ66crpAivLAplsR2hKIx5gz3rk"
+      }
+    },
+    {
+      "submission_id": "CEHACK-2026-016",
+      "project_name": "Memalize",
+      "team": "IEL ตัวร้ายเกรด SS",
+      "summary": "เว็บไซต์ Dashboard ที่แสดง Data Visualization แบบ Real-time จากแบบสำรวจอารมณ์ต่อมีม พร้อมแบบสอบถามส่วนบุคคล ระบบสะสมมีม Mascot ตามอารมณ์ และผลวิเคราะห์ของผู้ใช้",
+      "credits": ["ฟ้าใส — Vibe Coding, Sample Meme Collection and Solo Development"],
+      "learnings": "Vibe Coding ด้วย Lovable, GitHub และการแก้โค้ด",
+      "mentor_notes": "พี่เต้แนะนำ Google Stitch เพื่อ Redesign UX/UI; พี่ฟาช่วยแก้ปัญหา Export PDF",
+      "links": {
+        "source": [{"submitted_url": "https://github.com/faasai123/memalize", "canonical_url": "https://github.com/faasai123/memalize", "status": "verified_public"}],
+        "demo": [],
+        "pitch": "https://drive.google.com/open?id=1HE_gtGEYa3X7D30WARvIV5HiKXXBmISV"
+      }
+    },
+    {
+      "submission_id": "CEHACK-2026-017",
+      "project_name": "NOVA-LAB Bots",
+      "team": "NOVA-LAB",
+      "summary": "สองบอทสำหรับทีม: Deadline & Task Management Bot สำหรับเดดไลน์ Pomodoro มีม และสถิติ กับ Anti-Slacking Roast Bot ที่ตรวจแชตและกระตุ้นสมาชิกที่อู้งาน",
+      "credits": ["ฟลุ๊ค — Frontend, Backend, Pitch (Deadline Management)", "ตะวัน — Backend (Roast Bot)", "บอล — Team Lead", "จันทร์ — Coordination"],
+      "learnings": "การพอใจกับสิ่งที่มี การรับมือฟังก์ชันที่บั๊ก และการแก้บั๊กจำนวนมาก",
+      "mentor_notes": "Mentor ฟาช่วยนำบอทเข้า Discord และทดสอบบอท",
+      "links": {
+        "source": [
+          {"submitted_url": "https://github.com/Pazitherejaa/Real-version-Deadlines-managments", "canonical_url": "https://github.com/Pazitherejaa/Real-version-Deadlines-managments", "status": "verified_public"},
+          {"submitted_url": "https://github.com/TAWANEIEIEIONE/deadline-Discord-Mod", "canonical_url": "https://github.com/TAWANEIEIEIONE/deadline-Discord-Mod", "status": "verified_public"}
+        ],
+        "demo": [{"url": "https://new-story-writer.lovable.app", "status": "submitted_live_demo"}],
+        "pitch": "https://drive.google.com/open?id=1Oz2XHPgtu_T-TJi63bccBJb34S7MVTD8"
+      }
+    },
+    {
+      "submission_id": "CEHACK-2026-018",
+      "project_name": "67 File Transfer",
+      "team": "Mega Gears",
+      "summary": "แนวคิดเว็บที่พัฒนาต่อเป็นแอปสำหรับส่งสัญญาณจากท่าทางเพื่อรับไฟล์หรือข้อมูล",
+      "credits": ["ตู๊ — Data Collection and Synthesis", "เชอ — Analysis and Planning", "ตี๋ — Ideation and Feasibility", "กัปตัน — Project Design"],
+      "learnings": "ได้ไอเดียและความรู้ใหม่ ฝึกปฏิบัติจริง รับมุมมองจาก Mentor และพิธีกร และเรียนรู้ความสามัคคี",
+      "mentor_notes": "แนะนำเรื่องจำเป็นและอธิบายข้อสงสัยเกี่ยวกับการส่งงาน",
+      "links": {
+        "source": [{"submitted_url": "67_file_transfer_presentation.pdf", "canonical_url": null, "status": "filename_only_no_public_url"}],
+        "demo": [],
+        "pitch": "https://drive.google.com/open?id=14-VXYa8BLJ_F7JOAwooFwmxwpC_rdVkL"
+      }
+    },
+    {
+      "submission_id": "CEHACK-2026-019",
+      "project_name": "Meme Detective Game",
+      "team": "onetwothreefourfivesixsev",
+      "summary": "เกมสืบสวนโดยใช้มีมช่วยในการจับคนร้าย",
+      "credits": ["สเปน — Presenter", "ไขมุก — Development", "น้ำหวาน — Development", "กุ๊งกิ๊ง — Development", "มิ้น — Development"],
+      "learnings": "ได้เรียนรู้ว่ามีมสามารถช่วยในการหาคนร้ายได้",
+      "mentor_notes": "แนะนำระบบต่าง ๆ ที่นำไปต่อยอดได้",
+      "links": {
+        "source": [],
+        "demo": [],
+        "pitch": "https://drive.google.com/open?id=1vkVqILlDsUEjqSCPOit3XQ7fHXXLJNyF"
+      }
+    },
+    {
+      "submission_id": "CEHACK-2026-020",
+      "project_name": "Cherry Talk",
+      "team": "Cherry Cloud",
+      "summary": "AI ช่วยเรียบเรียงคำพูดให้ตรงตามเจตนาและสถานการณ์",
+      "credits": ["สิบ — Full-stack Development", "ม่อน — Backend", "แฮม — Ideation and Slides", "อิม — Ideation and Slides"],
+      "learnings": "ได้รูปแบบการทำงานที่หลากหลายและนอกกรอบมากขึ้น",
+      "mentor_notes": "ช่วยทำให้ไอเดียและทิศทางชัดเจนขึ้น",
+      "links": {
+        "source": [{"submitted_url": "https://github.com/urmelody10/cherry-talk", "canonical_url": "https://github.com/urmelody10/cherry-talk", "status": "verified_public"}],
+        "demo": [],
+        "pitch": "https://drive.google.com/open?id=1NSBCpke0yQMqXoomxO86dQtvr8cui-Mc"
+      }
+    },
+    {
+      "submission_id": "CEHACK-2026-021",
+      "project_name": "MemeBack",
+      "team": "มหาเทพสงครามเกิดมาเพื่อฆ่าและลบล้าง",
+      "summary": "แพลตฟอร์มที่เปลี่ยนคำตอบจากความเข้าใจของนักเรียนให้กลายเป็น Meme GIF และเปลี่ยนมีมนั้นให้เป็นบทเรียนของคนทั้งห้อง",
+      "credits": ["ปาล์ม — Ideation, Development, Pitch", "ไมค์ — System Planning, Pitch", "กาย — Frontend", "ไบรท์ — Backend", "ฟาน — Slides", "แม็ค — Slides"],
+      "learnings": "การใช้ Natural Language Processing วิเคราะห์คำตอบและการใช้ API เปลี่ยนข้อความเป็นวิดีโอสั้น",
+      "mentor_notes": "ไปหยิบป๊อปคอร์นมาแล้วเตรียมฟังพวกผมนำเสนอได้เลยครับ",
+      "links": {
+        "source": [{"submitted_url": "https://github.com/SOGUY144/MemeBack", "canonical_url": "https://github.com/SOGUY144/MemeBack", "status": "verified_public"}],
+        "demo": [{"url": "https://meme-back-lyart.vercel.app", "status": "submitted_live_demo"}],
+        "pitch": "https://drive.google.com/open?id=1tEN4LfS8bctfjxe2xeDONfNauzsTzkVR"
+      }
+    },
+    {
+      "submission_id": "CEHACK-2026-022",
+      "project_name": "TUNGkid",
+      "team": "1night",
+      "summary": "แพลตฟอร์ม AI ที่เปลี่ยนมีมเป็นข้อมูลเชิงวัฒนธรรม วิเคราะห์ Topic, Emotion, Problem, Context, Culture, Objective, SDG, Age Group และ Severity พร้อมตรวจมีมซ้ำ ติดตาม Meme Life Cycle และสรุปผ่าน Dashboard",
+      "credits": ["ดรีม — Ideation Presentation", "ต้า — Slides", "ไอซ์ — Development", "สุข — Team Member", "คิมหันต์ — Team Member"],
+      "learnings": "AI และ Data Analytics สามารถเปลี่ยนมีมให้เป็น Insight ที่ช่วยเข้าใจพฤติกรรมและวัฒนธรรมของผู้คนได้",
+      "mentor_notes": null,
+      "links": {
+        "source": [{"submitted_url": "https://github.com/icezwa/TUNGkid", "canonical_url": "https://github.com/icezwa/TUNGkid", "status": "verified_public"}],
+        "demo": [],
+        "pitch": "https://drive.google.com/open?id=1rDcCs49M7aAJdu3b5agX_GnTU_XX_BdY"
+      }
+    },
+    {
+      "submission_id": "CEHACK-2026-023",
+      "project_name": "AI Anti-TuiDui",
+      "team": "ตุ๋ยดุ้ย",
+      "summary": "ระบบ Data Engineering สำหรับตรวจจับและจัดการการใช้ทรัพยากรผิดบริบทในโรงเรียน เช่น ห้องว่างแต่ไฟเปิด น้ำรั่ว หรืออุปกรณ์ผิดปกติ ตั้งแต่รับข้อมูล ตรวจคุณภาพ วิเคราะห์บริบท ไปจนถึงแจ้งเตือนผู้รับผิดชอบ",
+      "credits": ["เจปัง — Slides", "จ๊ะจ๋า — Slides", "ตุน — Ideation", "บัส — Ideation", "ปาล์ม — Vibe Coding, Pitching", "ออโต้ — Pitching", "นิว — Video Media, Pitching"],
+      "learnings": "เปลี่ยนปัญหาใกล้ตัวเป็นระบบ End-to-end ตั้งแต่ Data Pipeline ถึง Dashboard และ MVP พร้อมฝึก Teamwork, Debugging, Testing, Open Source และ Scope Management",
+      "mentor_notes": "Mentor ช่วยชี้จุดอ่อน ตั้งคำถาม จัด Scope ของ MVP และปรับการเล่า Problem, Data Engineering และ Feasibility",
+      "links": {
+        "source": [{"submitted_url": "https://github.com/Zentpalm/AI-Anti-TuiDui", "canonical_url": "https://github.com/Zentpalm/AI-Anti-TuiDui", "status": "verified_public"}],
+        "demo": [],
+        "pitch": "https://drive.google.com/open?id=1Cvzmd-BjKItqx38HO1bdA9h8x1a2LHqp"
+      }
+    },
+    {
+      "submission_id": "CEHACK-2026-024",
+      "project_name": "EungUp",
+      "team": "Engifar",
+      "summary": "Google Classroom กับ Duolingo มีลูกเป็น EungUp",
+      "credits": ["เพลง — Code Prompter, UX/UI Designer", "เอญ่า — Presenter, UX/UI Designer", "พี — UX/UI Designer", "ต้นอ้อ — Researcher, UX/UI Designer", "ไฮดี้ — Pitcher", "ฮ้ง — Pitcher, UX/UI Designer", "เรนนี่ — Pitcher, Slides"],
+      "learnings": "ทดลองใช้ Lovable แก้ปัญหาเฉพาะหน้า และทำงานร่วมกัน",
+      "mentor_notes": "แนะนำการใช้ Lovable และการเลือก Open Source",
+      "links": {
+        "source": [{"submitted_url": "https://github.com/AkumuBoii/MemeStudy-app-by-Engifar.git", "canonical_url": "https://github.com/AkumuBoii/EungUp-app-by-Engifar", "status": "verified_public_redirected"}],
+        "demo": [],
+        "pitch": "https://drive.google.com/open?id=1EkOERtoTdZYDKkpcPTzNLzvvibzWkv57"
+      }
+    },
+    {
+      "submission_id": "CEHACK-2026-025",
+      "project_name": "Encouragement Board",
+      "team": "ไม่บอก🤫",
+      "summary": "บอร์ดให้กำลังใจสำหรับทุกคนที่กำลังรู้สึกท้อ",
+      "credits": ["แตงโม — Team Lead", "แพนโค้ก — Video Editing, Slides", "พี — Script", "มาเล — Survey, Ideation, Team Support", "ไตเติ้ล — End-to-end Production"],
+      "learnings": "ได้รู้ว่าทุกคนมีปัจจัยที่ส่งผลต่อการเรียนแตกต่างกัน",
+      "mentor_notes": null,
+      "links": {
+        "source": [{"submitted_url": "https://github.com/title2007/hk1", "canonical_url": "https://github.com/title2007/hk1", "status": "verified_public"}],
+        "demo": [],
+        "pitch": "https://drive.google.com/open?id=1qbtGgCnt0QC2hdfTvgnjJnoRtyvk3-Fc"
+      }
+    },
+    {
+      "submission_id": "CEHACK-2026-026",
+      "project_name": "WKM",
+      "team": "เส้นซีวิก",
+      "summary": "เว็บไซต์นัดเวลาที่ลงตัว โดยผู้ใช้ระบุเวลาว่างและระบบคำนวณช่วงเวลาที่ทุกคนสะดวกตรงกัน",
+      "credits": ["สาม — Development", "ทิกเกอร์ — Testing", "ปิกนิค — Slides", "เฟม — Slides", "รุ้ง — Team Support"],
+      "learnings": "การทำงานร่วมกันและประวัติศาสตร์มีม",
+      "mentor_notes": "พี่เต้ให้ไอเดียในการใช้มีมอย่างเป็นประโยชน์",
+      "links": {
+        "source": [{"submitted_url": "https://github.com/s4msh1ne/wkm", "canonical_url": null, "status": "unavailable_at_verification"}],
+        "demo": [],
+        "pitch": "https://drive.google.com/open?id=1yGB7pkbzsjt6fa7QPt_hk4FDQr2FPG97"
+      }
+    }
+  ]
+}

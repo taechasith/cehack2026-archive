@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Open-source project archive for CREATIVE data ENGINEERING HACKATHON 2026, EP: 67HACK." />
+    <meta name="theme-color" content="#0b1020" />
+    <title>67HACK 2026 — Open Source Archive</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Noto+Sans+Thai:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./assets/styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <nav class="nav shell" aria-label="Primary navigation">
+        <a class="brand" href="#top" aria-label="67HACK archive home"><span>67</span>HACK_ARCHIVE</a>
+        <div class="nav-links">
+          <a href="#projects">Projects</a>
+          <a href="./data/projects.json">JSON</a>
+          <a href="./README.md">README</a>
+        </div>
+      </nav>
+
+      <div class="shell hero-grid" id="top">
+        <div class="hero-copy">
+          <p class="eyebrow">15–16 AUG 2026 · ONLINE · THAILAND</p>
+          <h1>THE MEME<br /><span>ENGINEERING</span><br />ARCHIVE</h1>
+          <p class="lede">Projects, people, code, demos, and lessons from CREATIVE data ENGINEERING HACKATHON 2026.</p>
+          <div class="hero-actions">
+            <a class="button primary" href="#projects">Explore 26 submissions</a>
+            <a class="button secondary" href="https://contester.life/contest/creative-data-engineering-hackathon-2026" target="_blank" rel="noreferrer">Official event ↗</a>
+          </div>
+        </div>
+        <aside class="event-card" aria-label="Event details">
+          <p class="mono-label">EVENT_MANIFEST.json</p>
+          <dl>
+            <div><dt>event</dt><dd>CREATIVE data ENGINEERING HACKATHON 2026</dd></div>
+            <div><dt>episode</dt><dd>67HACK: THE MEME Engineering for Next Generation Learners</dd></div>
+            <div><dt>organizers</dt><dd>UTCC Engineering × CIA CreativeLab</dd></div>
+            <div><dt>partner</dt><dd>Adam's House</dd></div>
+            <div><dt>archive</dt><dd class="status-live">● public</dd></div>
+          </dl>
+        </aside>
+      </div>
+    </header>
+
+    <main>
+      <section class="metrics shell" aria-label="Archive metrics">
+        <article><strong id="metric-projects">26</strong><span>submissions</span></article>
+        <article><strong id="metric-repos">19</strong><span>verified repos</span></article>
+        <article><strong id="metric-pitches">25</strong><span>pitch links</span></article>
+        <article><strong>∞</strong><span>meme energy</span></article>
+      </section>
+
+      <section class="catalog shell" id="projects">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">PROJECT_INDEX</p>
+            <h2>Built in the chaos.<br />Preserved with care.</h2>
+          </div>
+          <p>Search by team, project, contributor, idea, or technology. The archive preserves every submitted record without ranking or assigning an unverified track.</p>
+        </div>
+
+        <div class="toolbar" role="search">
+          <label class="search-field">
+            <span class="sr-only">Search projects</span>
+            <span aria-hidden="true">⌕</span>
+            <input id="search" type="search" placeholder="Search projects, teams, people…" autocomplete="off" />
+          </label>
+          <label>
+            <span class="sr-only">Filter by source status</span>
+            <select id="source-filter">
+              <option value="all">All source statuses</option>
+              <option value="verified">Verified public source</option>
+              <option value="external">Demo / external link only</option>
+              <option value="unavailable">Unavailable source</option>
+              <option value="none">No public source</option>
+            </select>
+          </label>
+          <button id="reset" class="reset" type="button">Reset</button>
+        </div>
+
+        <div class="result-line"><span id="result-count">26 projects</span><span id="active-query"></span></div>
+        <div id="project-grid" class="project-grid" aria-live="polite"></div>
+        <div id="empty-state" class="empty-state" hidden>
+          <strong>No matching project.</strong>
+          <p>Try a team name, contributor, project idea, or a broader filter.</p>
+        </div>
+      </section>
+
+      <section class="principles shell">
+        <div><span>01</span><h3>Credit the makers</h3><p>Names and roles stay attached to the work.</p></div>
+        <div><span>02</span><h3>Preserve the evidence</h3><p>Sources, demos, pitches, and link status remain explicit.</p></div>
+        <div><span>03</span><h3>Keep it correctable</h3><p>Authors can propose verified corrections through GitHub.</p></div>
+      </section>
+    </main>
+
+    <footer>
+      <div class="shell footer-grid">
+        <div><p class="brand"><span>67</span>HACK_ARCHIVE</p><p>An independent open archive maintained for CIA CreativeLab.</p></div>
+        <div><p>Organized by UTCC Engineering × CIA CreativeLab<br />In partnership with Adam's House</p></div>
+        <div><a href="./CONTRIBUTING.md">Contribute</a><a href="./LICENSE.md">License</a><a href="./data/projects.json">Open data</a></div>
+      </div>
+    </footer>
+
+    <template id="project-card-template">
+      <article class="project-card">
+        <div class="card-top"><span class="project-id"></span><span class="source-badge"></span></div>
+        <h3 class="project-name"></h3>
+        <p class="team-name"></p>
+        <p class="project-summary"></p>
+        <details>
+          <summary>Team credits</summary>
+          <ul class="credits-list"></ul>
+        </details>
+        <div class="card-links"></div>
+      </article>
+    </template>
+
+    <script type="module" src="./assets/app.js"></script>
+  </body>
+</html>
